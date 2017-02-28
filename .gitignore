@@ -1,4 +1,4 @@
-# Created by https://www.gitignore.io/api/visualstudiocode
+project.lock.json
 
 ### VisualStudioCode ###
 .vscode/*
@@ -7,4 +7,17 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# End of https://www.gitignore.io/api/visualstudiocode
+### Build Results ###
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
